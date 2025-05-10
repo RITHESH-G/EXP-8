@@ -51,8 +51,8 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ~~~~
 ## Calculation:
+![image](https://github.com/user-attachments/assets/002e110d-60f6-4c23-94c2-661453ff18c7)
 
-![image](https://github.com/user-attachments/assets/b32b1056-4d52-404d-b879-3763cbad813e)
 ![image](https://github.com/user-attachments/assets/fdda6d48-3cc6-4158-8d00-67c426739241)
 ## Results:
 ##### For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25
